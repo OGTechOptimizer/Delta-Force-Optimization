@@ -38,4 +38,5 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 
 # 🖼️ Comparison
 
+[![Comparison Preview](assets/comparison-preview.png)](https://imgsli.com/MzQ3MjIz)
 
