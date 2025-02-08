@@ -34,6 +34,8 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 
 <img src="https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a87caf2d44a93a82664e040b9a576abb1ab73b11/Images/Benchmark/Super%20Resolution.png" width="800">
 
+<img src="https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/53010066a7e9bd41c83865491afa1b3374720151/Images/Benchmark/Large%20Pages.png" width="800">
+
 
 
 
