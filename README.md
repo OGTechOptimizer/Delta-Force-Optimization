@@ -38,7 +38,7 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 
 # 🖼️ Comparison
 
-**Here is a side-by-side image comparisons for each Super Resolution mode** I did not include the screenshots for DLSS and FSR 2.0 with the config tweaks because there is no difference in quality.
+Here is a side-by-side image comparisons for each Super Resolution mode. I did not include the screenshots for DLSS and FSR 2.0 with the config tweaks because there is no difference in quality.
 
 AMD FidelityFX Super Resolution v2.0 (_Click on the picture to compare with NVIDIA DLSS_)
 
