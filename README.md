@@ -60,5 +60,9 @@ Super Resolution Mode OFF + Config (_Click on the picture to compare with SR Mod
 
 [![SROFF](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/7bdc1915d5d0bc55f74f110ce1da2bfb58b800dc/Images/Comparison/Super%20Resolution%20Off%20%2B%20Config.png)](https://imgsli.com/MzQ3MjI2)
 
+# 📢 Contributions
 
+Feel free to submit issues or suggestions to improve the optimizations further! 
+
+Let me know if you want any tweaks or additional sections! 🚀
 
