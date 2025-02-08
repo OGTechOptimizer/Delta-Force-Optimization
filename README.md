@@ -51,12 +51,12 @@ NVIDIA DLSSS v3.1.1 (_Click on the picture to compare with AMD FSR 2.0_)
 
 [![NVIDIA](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a80e6118a9e7ab29438fc62d2ffb197146aeec72/Images/Comparison/Nvidia%20DLSS%20(Performance).png)](https://imgsli.com/MzQ3MjIz)
 
-Super Resolution Mode OFF (_Click on the picture to compare with SR Mode OFF + Config)
+Super Resolution Mode OFF (_Click on the picture to compare with SR Mode OFF + Config_)
 
 [![SROFF](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/7bdc1915d5d0bc55f74f110ce1da2bfb58b800dc/Images/Comparison/Super%20Resolution%20Off.png)](https://imgsli.com/MzQ3MjI2)
 
 
-Super Resolution Mode OFF + Config
+Super Resolution Mode OFF + Config (_Click on the picture to compare with SR Mode OFF_)
 
 [![SROFF](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/7bdc1915d5d0bc55f74f110ce1da2bfb58b800dc/Images/Comparison/Super%20Resolution%20Off%20%2B%20Config.png)](https://imgsli.com/MzQ3MjI2)
 
