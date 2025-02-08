@@ -40,15 +40,25 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 
 **Here is a side-by-side image comparisons for each Super Resolution mode** I did not include the screenshots for DLSS and FSR 2.0 with the config tweaks because there is no difference in quality.
 
-AMD FidelityFX Super Resolution 2.0 (_Click on the picture to compare with NVIDIA DLSS_)
+AMD FidelityFX Super Resolution v2.0 (_Click on the picture to compare with NVIDIA DLSS_)
 
 
 [![AMD](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a80e6118a9e7ab29438fc62d2ffb197146aeec72/Images/Comparison/AMD%20FSR%202.0%20(Performance).png)](https://imgsli.com/MzQ3MjIz) 
 
 
-NVIDIA DLSSS (_Click on the picture to compare with AMD FSR 2.0_)
+NVIDIA DLSSS v3.1.1 (_Click on the picture to compare with AMD FSR 2.0_)
 
 
 [![NVIDIA](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a80e6118a9e7ab29438fc62d2ffb197146aeec72/Images/Comparison/Nvidia%20DLSS%20(Performance).png)](https://imgsli.com/MzQ3MjIz)
+
+Super Resolution Mode OFF
+
+[![SROFF](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/7bdc1915d5d0bc55f74f110ce1da2bfb58b800dc/Images/Comparison/Super%20Resolution%20Off.png)](https://imgsli.com/MzQ3MjI2)
+
+
+Super Resolution Mode OFF + Config
+
+[![SROFF](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/7bdc1915d5d0bc55f74f110ce1da2bfb58b800dc/Images/Comparison/Super%20Resolution%20Off%20%2B%20Config.png)](https://imgsli.com/MzQ3MjI2)
+
 
 
