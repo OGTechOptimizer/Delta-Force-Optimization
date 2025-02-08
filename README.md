@@ -31,3 +31,7 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 • In-Game Graphics: All Low
 
 ![Nvidia DLSS](https://github.com/user-attachments/assets/e8cd721e-e4a0-4d1c-bba8-7ef0baa37ae2)
+
+Super Resoltuion Mode: AMD DSR2.0
+
+![AMD FSR 2 0](https://github.com/user-attachments/assets/61b82e87-3914-4542-b148-9694a0a3986a)
