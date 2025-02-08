@@ -28,6 +28,4 @@ All benchmarks were captured in the Firing Range, standing still for 30 seconds
 
 • In-Game Graphics: All Low
 
-![Nvidia DLSS](https://github.com/user-attachments/assets/e8cd721e-e4a0-4d1c-bba8-7ef0baa37ae2)
-
-![AMD FSR 2 0](https://github.com/user-attachments/assets/61b82e87-3914-4542-b148-9694a0a3986a)
+<img src="https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/ac707ad8bd098b88040076b5dfbc21ae3c92f367/Images/Benchmark/Nvidia%20DLSS.png" width="800">
