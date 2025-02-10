@@ -46,7 +46,7 @@ AMD FidelityFX Super Resolution v2.0 (_Click on the picture to compare with NVID
 [![AMD](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a80e6118a9e7ab29438fc62d2ffb197146aeec72/Images/Comparison/AMD%20FSR%202.0%20(Performance).png)](https://imgsli.com/MzQ3MjIz) 
 
 
-NVIDIA DLSSS v3.1.1 (_Click on the picture to compare with AMD FSR 2.0_)
+NVIDIA DLSS v3.1.1 (_Click on the picture to compare with AMD FSR 2.0_)
 
 
 [![NVIDIA](https://github.com/OGTechOptimizer/Delta-Force-Optimization/blob/a80e6118a9e7ab29438fc62d2ffb197146aeec72/Images/Comparison/Nvidia%20DLSS%20(Performance).png)](https://imgsli.com/MzQ3MjIz)
