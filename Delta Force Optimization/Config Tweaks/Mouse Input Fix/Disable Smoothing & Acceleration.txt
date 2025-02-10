@@ -1,9 +1,0 @@
-RawMouseInputEnabled=Enabled
-bEnableMouseSmoothing=False
-bViewAccelerationEnabled=False
-bUseMouseForTouch=True
-
-!COPY AND PASTE THE VARIABLES!
-
--The config file is located in:
-Steam Games\steamapps\common\Delta Force\Game\DeltaForce\Saved\Config\WindowsClient (Input.ini)

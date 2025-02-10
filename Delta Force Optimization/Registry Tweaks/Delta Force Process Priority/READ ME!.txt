@@ -1,1 +1,0 @@
-Use Normal Priority if the game crashes, reaches high temps, or has performance issues.
