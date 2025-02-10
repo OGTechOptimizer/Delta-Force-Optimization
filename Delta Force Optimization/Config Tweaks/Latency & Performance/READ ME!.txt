@@ -1,0 +1,30 @@
+An Explanation of What Each Variable Does
+-----------------------------------------
+
+
+1) r.PostProcessAAQuality=0
+Controls the quality of post-process anti-aliasing. Setting it to 0 disables post-process anti-aliasing.
+
+2) r.DefaultFeature.AntiAliasing=0
+Sets the default anti-aliasing method. Setting it to 0 disables the anti-aliasing entirely.
+
+3) r.TemporalAA.Algorithm=0
+Controls the algorithm used for Temporal Anti-Aliasing (TAA). Setting it to 0 disables TAA.
+
+4) r.TemporalAA.ClampTolerant=0
+Controls how much TAA clamps color values in fast-moving scenes. Setting it to 0 disables this feature, which can result in more stable image quality but may introduce more ghosting.
+
+5) r.TemporalAACurrentFrameWeight=1
+Controls the weight of the current frame in the Temporal AA calculation. Value 1 gives the current frame full weight, which can reduce ghosting.
+
+6) r.TemporalAASamples=1
+This sets the number of samples used for Temporal AA. Value 1 means only one sample is used, which can improve performance.
+
+7) r.TemporalAAFilterSize=0.1
+Controls the filter size for Temporal AA. A smaller value like 0.1 results in a sharper image.
+
+8) r.TemporalAAQuality=0
+Sets the quality level of Temporal AA. Setting it to 0 disables Temporal AA, which can improve performance.
+
+9) r.TemporalAA.Upsampling=1
+Enables TAA upsampling, which can improve performance by rendering at a lower resolution. This dosent work with Nvidia DLSS.

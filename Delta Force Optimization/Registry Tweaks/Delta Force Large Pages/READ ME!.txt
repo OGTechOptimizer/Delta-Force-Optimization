@@ -1,0 +1,10 @@
+It's recommended to have 64-bit Windows & 8GB+ RAM to use large pages
+---------------------------------------------------------------------
+
+What Are Large Pages?
+----------------------
+Large Pages are a memory optimization feature in modern operating systems. They reduce the overhead of managing many small memory pages by using fewer, larger pages. This can improve performance that require large amounts of memory, as it reduces the number of page table entries and can improve CPU cache efficiency. By default this feature is disabled.
+
+
+Disable This Feature If You Experience Crashes or Performance Issues After Enabling! 
+------------------------------------------------------------------------------------

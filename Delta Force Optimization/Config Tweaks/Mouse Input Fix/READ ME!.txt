@@ -1,0 +1,15 @@
+An Explanation of What Each Variable Does
+-----------------------------------------
+
+
+1) RawMouseInputEnabled=Enabled
+Ensures the game reads mouse movement directly from your hardware without interference from Windows settings (like pointer precision).
+
+2) bEnableMouseSmoothing=False
+Disables mouse smoothing, which averages input data over time to make movements feel more "fluid."
+
+3) bViewAccelerationEnabled=False
+Disables mouse acceleration, which makes the cursor move faster depending on how quickly you move the mouse.
+
+4) bUseMouseForTouch=True
+Allows the mouse to be used as an input method for touch-based interfaces.
